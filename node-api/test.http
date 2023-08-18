@@ -14,6 +14,10 @@ POST http://localhost:4040/login
 Content-Type: application/json
 
 {
-  "username": "quocgia",
+  "username": "quocgia1",
   "password": "admin"
 }
+
+###
+
+POST http://localhost:4040/logout
